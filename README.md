@@ -1,6 +1,6 @@
 - 👋 Hi, I’m SandeepAnala
-- 👀 I’m interested in Big Data Engineering
-- 🌱 I’m currently learning Azure Data Engineering(Azure Data Factory & Azure Databricks)
+- 👀 I’m interested in Big Data Analytics & Engineering
+- 🌱 I’m currently learning as well as implementing Data Analytics & Engineering.
 - 💞️ I’m looking to collaborate on Data Engineering projects
 - 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/sandeep-anala/)
 
